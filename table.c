@@ -9,6 +9,6 @@ int main()
         i = i+1;
 
     }while(i<11);
-    /* code */
+    
     return 0;
 }
